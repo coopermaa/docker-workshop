@@ -32,6 +32,18 @@ FYI, the `gh-pages` branch stores the slide files, mostly in markdown format.
 ## History
 
 
+**v5.0** / 第五梯次 (2015-06-27)
+
+  - 增加更多實例，示範 container linking 的實務手法。
+  - 提前以範例介紹初學者常見的兩大地雷：volume 及 network。
+
+
+**v4.0** / 第四梯次 (2015-05-09)
+
+  - 簡化 Vagrant 虛擬機數量。
+  - 增加「極簡化 Docker」實例，解釋 rootfs、dependency 與 isolation 性質。
+
+
 **v3.0** / 第三梯次 (2015-04-11)
 
   - 簡化 Vagrant 環境設定程序。
